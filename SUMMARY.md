@@ -24,3 +24,7 @@
 * [⚒ Dev Resources](resources/dev-resources.md)
 * [🤝 Brand Pack](resources/brand-pack.md)
 * [🌐 Socials](resources/socials.md)
+
+***
+
+* [⬅ Back to DEX](https://solapeswap.io/)
