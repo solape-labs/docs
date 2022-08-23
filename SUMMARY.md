@@ -28,3 +28,4 @@
 ***
 
 * [⬅ Back to DEX](https://solapeswap.io/)
+* [🚫 Restricted Jurisdictions](restricted-jurisdictions.md)
