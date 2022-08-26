@@ -12,6 +12,10 @@ If you're experiencing issues with local response times to specific Serum-based 
 
 As mentioned in the graphic, this tool transfers 0.01 SOL from your wallet to fund and run an automated crank on this webpage. After the crank is finished, any remaining SOL will be refunded back to your wallet.
 
+{% hint style="info" %}
+To ensure a successful crank of any Serum market, please ensure that you wait and keep the browser open for the full duration of the crank. Depending on the number of orders this can range anywhere between a few seconds to a few minutes.
+{% endhint %}
+
 ### **What is crank turning?**
 
 On the Serum Orderbooks, the job of matching orders is often referred to as “**crank turning**”. \
