@@ -21,7 +21,8 @@
 
 ## Resources
 
-* [⚒ Dev Resources](resources/dev-resources.md)
+* [📄 Dev Resources](resources/dev-resources.md)
+* [🛠 Crank Market](resources/crank-market.md)
 * [🤝 Brand Pack](resources/brand-pack.md)
 * [🌐 Socials](resources/socials.md)
 
